@@ -189,7 +189,7 @@ h6 a {
 	position: relative;
 	clear: both;
 	width: 100%;
-	background-image: url('images/darkbluefuzz.png');
+	background: #000; /* url('images/darkbluefuzz.png');*/
 	color: #fff;
 	padding-top: 15px;
 	border-top: 3px solid #005988;
